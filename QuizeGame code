@@ -3,6 +3,7 @@
 print('Welcome to the Quiz Game')
 print('Each question is 2 marks')
 print('Try to get as many questions correct as possible')
+ans = input('Press Enter to continue...')
 
 total_question = 5
 score = 0
